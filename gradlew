@@ -9,6 +9,7 @@
 # Attempt to set APP_HOME
 # Resolve links: $0 may be a link
 echo "Yingying Instrumentation"
+echo "Yingying Instrumentation22222222"
 
 PRG="$0"
 # Need this for relative symlinks.
